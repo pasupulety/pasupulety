@@ -11,7 +11,8 @@ Here, you’ll find a variety of **data-driven projects**—ranging from **predi
 
 ## 📝 **Contact & Resume**
 - 📩 How to reach me: **[pasupulety.h@northeastern.edu](mailto:pasupulety.h@northeastern.edu)**  
-- 📄 Know about my experiences: **[View My Resume](#)**  
+- 📄 - 📄 Know about my experiences: **[View My Resume]((https://github.com/pasupulety/pasupulety/blob/main/harshita_resume.pdf))**
+
 
 
 ---
