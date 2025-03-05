@@ -1,4 +1,4 @@
-# Hi 👋, I'm Harshita Pasupulety 
+# Hi 👋, I'm Harshita Pasupulety
 
 ## Welcome to my GitHub page!  
 
@@ -7,8 +7,6 @@ I am an **Aspiring Data Analyst & AI/ML Enthusiast**, currently pursuing my **Ma
 I believe in the power of **data-driven decision-making** and am constantly exploring new ways to leverage **data visualization, AI models, and cloud computing** to solve real-world challenges. My work spans **data cleaning, statistical analysis, predictive modeling, and interactive dashboard development**, ensuring that businesses can **make informed, strategic choices**.  
 
 Here, you’ll find a variety of **data-driven projects**—ranging from **predictive analytics** to **interactive data visualizations**, covering domains like **supply chain analytics, retail forecasting, music trends, and sports analytics**.  
-
-I am always open to learning new technologies, collaborating on interesting projects, and contributing to the **data science and analytics community**.  
 
 ---
 
@@ -30,14 +28,25 @@ I am always open to learning new technologies, collaborating on interesting proj
 
 ---
 
-## 💻 **Tech Stack**  
+## 💻 **Languages & Tools**  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
+
+---
+
+## 📊 **Most Used Languages**  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pasupuletY&layout=compact&theme=github-dark)
 
 ---
 
@@ -48,9 +57,17 @@ I am always open to learning new technologies, collaborating on interesting proj
 ---
 
 ## 📫 **Connect with Me**  
-[![LinkedIn](https://www.linkedin.com/in/harshita-pasupulety/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com/)  
-📧 **Email:** pasupulety.h@northeastern.edu  
+<p align="center">
+  <a href="https://www.linkedin.com/in/harshita-pasupulety/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://yourwebsite.com/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="mailto:pasupulety.h@northeastern.edu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
