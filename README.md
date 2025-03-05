@@ -1,72 +1,74 @@
-# Hi 👋, I'm Harshita Pasupulety
+# Hi 👋, I'm Harshita PasupuletY  
 
 ## Welcome to my GitHub page!  
 
-I am an **Aspiring Data Analyst & AI/ML Enthusiast**, currently pursuing my **Master’s in Analytics at Northeastern University**. My passion lies in **transforming complex data into actionable insights** to drive business decisions. I have experience in **data analytics, business intelligence, machine learning, and predictive modeling**, and I enjoy working with **large datasets to uncover patterns and trends**.  
+I am an **Aspiring Data Analyst & AI/ML Enthusiast**, currently pursuing my **Master’s in Analytics at Northeastern University**. My passion lies in **transforming raw data into actionable insights** to drive business decisions.  
 
-I believe in the power of **data-driven decision-making** and am constantly exploring new ways to leverage **data visualization, AI models, and cloud computing** to solve real-world challenges. My work spans **data cleaning, statistical analysis, predictive modeling, and interactive dashboard development**, ensuring that businesses can **make informed, strategic choices**.  
-
-Here, you’ll find a variety of **data-driven projects**—ranging from **predictive analytics** to **interactive data visualizations**, covering domains like **supply chain analytics, retail forecasting, music trends, and sports analytics**.  
-
----
-
-## 🔹 About Me  
-- 💡 **Passionate about:** Data Analytics, AI/ML, Business Intelligence, and Supply Chain Optimization  
-- 📊 **Experienced in:** Predictive modeling, data visualization, statistical analysis, and cloud computing  
-- 🔍 **Strong Background in:** Python, SQL, R, Power BI, Tableau, and Machine Learning  
-- 🌱 **Currently Learning:** Big Data, PySpark, Docker, and Advanced ML techniques  
-- 🤝 **Looking to collaborate on:** Data-driven projects that solve real-world problems  
-- 🏆 **Goal:** To bridge the gap between data science and business strategy through insightful analytics  
+🔹 I specialize in **data analytics, visualization, and machine learning**  
+🔹 Strong background in **Python, SQL, Power BI, Tableau, and Cloud Technologies**  
+🔹 Interested in **business intelligence, predictive modeling, and AI-driven solutions**  
 
 ---
 
-## 📌 **Projects**  
-🔹 **[Optimization of Wholesaler Shipping at Brewery](#)** – Power BI dashboards & shipment cost optimization.  
-🔹 **[Spotify Song Popularity Prediction](#)** – Predicting song success using machine learning.  
-🔹 **[FIFA World Cup Analytics](#)** – Interactive Tableau dashboard for World Cup insights.  
-🔹 **[Sales Forecasting for Retail Chains](#)** – Demand forecasting using time-series analysis.  
-
----
-
-## 💻 **Languages & Tools**  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-</p>
-
----
-
-## 📊 **Most Used Languages**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pasupuletY&layout=compact&theme=github-dark)
-
----
-
-## 📈 **GitHub Stats**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pasupuletY&theme=github-dark)  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pasupuletY&theme=github-dark)  
-
----
-
-## 📫 **Connect with Me**  
+## 🌍 **Connect with Me**  
 <p align="center">
   <a href="https://www.linkedin.com/in/harshita-pasupulety/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://yourwebsite.com/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  <a href="https://www.instagram.com/yourhandle/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:pasupulety.h@northeastern.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.youtube.com/yourchannel/">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://yourportfolio.com/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </p>
 
 ---
+
+## 🛠 **Languages and Tools**  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50"/>
+</p>
+
+---
+
+## 📊 **Most Used Languages**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasupuletY&layout=compact&theme=github-dark" />
+</p>
+
+---
+
+## 📈 **GitHub Stats**  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pasupuletY&theme=github-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pasupuletY&theme=github-dark" />
+</p>
+
+---
+
+## 📌 **Projects**  
+- **[Optimization of Wholesaler Shipping at Brewery](#)** – Power BI dashboards & shipment cost optimization.  
+- **[Spotify Song Popularity Prediction](#)** – Predicting song success using machine learning.  
+- **[FIFA World Cup Analytics](#)** – Interactive Tableau dashboard for World Cup insights.  
+- **[Sales Forecasting for Retail Chains](#)** – Demand forecasting using time-series analysis.  
+
+---
+
