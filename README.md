@@ -1,4 +1,4 @@
-# Hi 👋, I'm Harshita PasupuletY  
+# Hi 👋, I'm Harshita Pasupulety 
 
 ## Welcome to my GitHub page!  
 
