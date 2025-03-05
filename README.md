@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Harshita PasupuletY
+# 👋 Hi, I'm Harshita Pasupulety
 
 🚀 **Aspiring Data Analyst | AI & ML Enthusiast**  
 I am passionate about transforming data into insights and solving complex business problems using **Python, SQL, Power BI, and Machine Learning**.
