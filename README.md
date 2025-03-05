@@ -9,6 +9,7 @@ I believe in the power of **data-driven decision-making** and am constantly expl
 Here, you’ll find a variety of **data-driven projects**—ranging from **predictive analytics** to **interactive data visualizations**, covering domains like **supply chain analytics, retail forecasting, music trends, and sports analytics**.  
 
 ##📫 How to reach me pasupulety.h@northeasteern.edu
+
 ##📄 Know about my experiences 
 
 
