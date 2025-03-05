@@ -70,11 +70,3 @@ Here, you’ll find a variety of **data-driven projects**—ranging from **predi
 </p>
 
 ---
-
-### ✅ **Next Steps:**  
-1. **Replace `"https://yourwebsite.com/"`** with your actual **portfolio link** or remove it if not needed.  
-2. **Commit and Push** this updated **README.md** to your GitHub profile repository.  
-
-🚀 Now your **GitHub profile** will look more **engaging, interactive, and professional!** 🎉  
-
-Would you like me to generate the **README.md file** for you to download and upload directly? 😊  
