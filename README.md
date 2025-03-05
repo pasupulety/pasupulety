@@ -8,10 +8,10 @@ I believe in the power of **data-driven decision-making** and am constantly expl
 
 Here, you’ll find a variety of **data-driven projects**—ranging from **predictive analytics** to **interactive data visualizations**, covering domains like **supply chain analytics, retail forecasting, music trends, and sports analytics**.  
 
-##📫 How to reach me pasupulety.h@northeasteern.edu
 
-##📄 Know about my experiences 
-
+## 📝 **Contact & Resume**
+- 📩 How to reach me: **[pasupulety.h@northeastern.edu](mailto:pasupulety.h@northeastern.edu)**  
+- 📄 Know about my experiences: **[View My Resume](#)**  
 
 
 ---
@@ -62,15 +62,23 @@ Here, you’ll find a variety of **data-driven projects**—ranging from **predi
 
 ---
 
-## 📫 **Connect with Me**  
+## 🌍 **Connect with Me**  
 <p align="center">
   <a href="https://www.linkedin.com/in/harshita-pasupulety/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://yourwebsite.com/">
+  <a href="https://www.instagram.com/pasupuleti_honey/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/pasupuletyharsh1">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://yourportfolio.com/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
-  
+  <a href="mailto:pasupulety.h@northeastern.edu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
