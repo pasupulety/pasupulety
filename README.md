@@ -49,10 +49,9 @@ Here, you’ll find a variety of **data-driven projects**—ranging from **predi
 </p>
 
 ---
-## 📊 **Most Used Languages**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasupuletY&layout=compact&theme=github-dark" />
-</p>
+## 📊 **Most Used Languages**  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pasupuletY&layout=compact&theme=github-dark)
+
 ---
 
 ## 📈 **GitHub Stats**  
