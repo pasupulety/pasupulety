@@ -8,11 +8,9 @@ I believe in the power of **data-driven decision-making** and am constantly expl
 
 Here, you’ll find a variety of **data-driven projects**—ranging from **predictive analytics** to **interactive data visualizations**, covering domains like **supply chain analytics, retail forecasting, music trends, and sports analytics**.  
 
-
 ## 📝 **Contact & Resume**
 - 📩 How to reach me: **[pasupulety.h@northeastern.edu](mailto:pasupulety.h@northeastern.edu)**  
-- 📄 Know about my experiences: **[View My Resume](((https://github.com/pasupulety/pasupulety/blob/main/harshita_resume.pdf)))**
-
+- 📄 Know about my experiences: **[View My Resume](https://github.com/pasupulety/pasupulety/blob/main/harshita_resume.pdf)**  
 
 
 ---
